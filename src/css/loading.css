@@ -1,0 +1,9 @@
+.loading, .board {
+    width: 100%;
+    height: 100%;
+}
+
+.board {
+    background-color: #000000;
+    background-image: linear-gradient(315deg, #67664894 0%, #000000 74%);
+}
